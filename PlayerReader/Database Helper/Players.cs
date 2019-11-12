@@ -8,11 +8,11 @@ namespace PlayerReader
     {
         public string PlayerName { get; private set; }
 
-        public uint PlayerNumber { get; private set; }
+        public int PlayerNumber { get; private set; }
         public string PlayerPosition { get; private set; }
         public string PlayerSport { get; private set; }
 
-        public Players(string playerName, uint playerNumber, string playerPosition, string playerSport)
+        public Players(string playerName, int playerNumber, string playerPosition, string playerSport)
         {
             this.PlayerName = playerName;
             this.PlayerNumber = playerNumber;

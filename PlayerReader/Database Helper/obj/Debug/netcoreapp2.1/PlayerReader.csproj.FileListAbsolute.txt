@@ -1,0 +1,12 @@
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\input\PlayerData.csv
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\PlayerReader.deps.json
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\PlayerReader.runtimeconfig.json
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\PlayerReader.runtimeconfig.dev.json
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\PlayerReader.dll
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\bin\Debug\netcoreapp2.1\PlayerReader.pdb
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.csprojAssemblyReference.cache
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.csproj.CoreCompileInputs.cache
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.AssemblyInfoInputs.cache
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.AssemblyInfo.cs
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.dll
+D:\repos\SportsPlayerReader\SportsPlayerReader\PlayerReader\Database Helper\obj\Debug\netcoreapp2.1\PlayerReader.pdb
